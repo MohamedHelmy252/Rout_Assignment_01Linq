@@ -1,0 +1,14 @@
+E:\vs c#\Linq01\Linq01\bin\Debug\net8.0\Linq01.exe
+E:\vs c#\Linq01\Linq01\bin\Debug\net8.0\Linq01.deps.json
+E:\vs c#\Linq01\Linq01\bin\Debug\net8.0\Linq01.runtimeconfig.json
+E:\vs c#\Linq01\Linq01\bin\Debug\net8.0\Linq01.dll
+E:\vs c#\Linq01\Linq01\bin\Debug\net8.0\Linq01.pdb
+E:\vs c#\Linq01\Linq01\obj\Debug\net8.0\Linq01.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs c#\Linq01\Linq01\obj\Debug\net8.0\Linq01.AssemblyInfoInputs.cache
+E:\vs c#\Linq01\Linq01\obj\Debug\net8.0\Linq01.AssemblyInfo.cs
+E:\vs c#\Linq01\Linq01\obj\Debug\net8.0\Linq01.csproj.CoreCompileInputs.cache
+E:\vs c#\Linq01\Linq01\obj\Debug\net8.0\Linq01.dll
+E:\vs c#\Linq01\Linq01\obj\Debug\net8.0\refint\Linq01.dll
+E:\vs c#\Linq01\Linq01\obj\Debug\net8.0\Linq01.pdb
+E:\vs c#\Linq01\Linq01\obj\Debug\net8.0\Linq01.genruntimeconfig.cache
+E:\vs c#\Linq01\Linq01\obj\Debug\net8.0\ref\Linq01.dll
